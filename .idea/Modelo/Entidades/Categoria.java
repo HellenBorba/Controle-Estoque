@@ -75,5 +75,4 @@ public class Categoria {
     public String toString() {
         return "Categoria{" + "id=" + id + ", name=" + nome + ", descricao=" + descricao + ", ref_baixo_estoque=" + ref_baixo_estoque + '}';
     }
-
 }
