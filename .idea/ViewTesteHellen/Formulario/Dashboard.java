@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-//package com.culysoft.gestaovenda.view.formulario;
+package br.com.Projeto_ProcessosProjetosTI.Controle_Estoque.idea.ViewTesteHellen.Dashboard;
 
-//import com.culysoft.gestaovenda.modelo.controller.CategoriaController;
+import br.com.Projeto_ProcessosProjetosTI.Controle_Estoque.idea.Modelo.Controller.CategoriaController;
 //import com.culysoft.gestaovenda.modelo.controller.ClienteController;
 //import com.culysoft.gestaovenda.modelo.controller.DashboardController;
 //import com.culysoft.gestaovenda.modelo.controller.ProdutoController;
